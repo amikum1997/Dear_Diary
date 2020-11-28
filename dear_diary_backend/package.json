@@ -1,0 +1,15 @@
+{
+  "name": "dear_diary_backend",
+  "version": "1.0.0",
+  "description": "A Virtual Diary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dear",
+    "Diary"
+  ],
+  "author": "Amit Kumar",
+  "license": "ISC"
+}
